@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Amine-poplocker
-- 👀 I’m interested in Inofrmation Technology and especially PC hardware
+- 👀 I’m interested in Information Technology especially in PC hardware parts
 - 🌱 I’m currently learning SQL and AZURE CLOUD
 - 💞️ I’m looking to collaborate on everything where you can tecah me or share your knowledge.
 - 📫 How to reach me via my mailbox please.
